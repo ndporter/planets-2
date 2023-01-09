@@ -1,2 +1,3 @@
-*.dat
-results/
+*.dat #ignore all data files
+!final.dat #don't ignore final.dat data
+results/ #ignore results
